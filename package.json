@@ -1,0 +1,14 @@
+{
+  "name": "ritesh",
+  "version": "1.0.0",
+  "description": "this is my major project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritesh khande",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
